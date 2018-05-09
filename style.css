@@ -1,0 +1,21 @@
+body {
+   background-image: url("Images/background.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#cv {
+	cursor:url('Images/viseur.png'),auto; 
+    display: block;
+	left: 200px;
+	top:10px;
+    margin: 10px auto;
+}
+
+#col{
+    margin-left: 30%;
+    margin-right: 30%;
+	padding-bottom: 10%;
+	padding-top: 5%;
+	background-color: rgba(0,0,0,0.5);
+}
